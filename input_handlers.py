@@ -4,6 +4,7 @@ from typing import Optional, TYPE_CHECKING
 
 import tcod.event
 
+import actions
 from actions import (
     Action,
     BumpAction,
