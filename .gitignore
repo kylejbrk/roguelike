@@ -142,3 +142,6 @@ cython_debug/
 
 #venv
 roguelike_env
+
+#save file
+*.sav
